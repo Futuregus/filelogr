@@ -1,7 +1,6 @@
 ![Filelogr](https://raw.githubusercontent.com/Futuregus/filelogr/main/filelogr%20assets/filelogrlogo.png)
 
   ![license](https://img.shields.io/badge/license-MIT-green?style=flat) ![PyPI - Version](https://img.shields.io/pypi/v/filelogr)  ![PyPI - Downloads](https://img.shields.io/pypi/dm/filelogr) ![Static Badge](https://img.shields.io/badge/Python-4179a8?style=flat&label=Language&color=%234179a8&link=https%3A%2F%2Fwww.python.org%2F)
-![Static Badge](https://img.shields.io/badge/Coming%20soon-white?style=flat&label=Full%20documentation&color=%234179a8)
 
 
 

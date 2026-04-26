@@ -85,7 +85,7 @@ class Logger:
         if tag is None:
             tag = cls._default_tag
 
-        message = f"[{tag}] {action}" if tag else action
+        message = f"[{tag}] {action}" if tag and not separator else action
 
         print_to_console = print_to_console if print_to_console is not None else not cls._no_console
 
