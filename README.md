@@ -1,4 +1,4 @@
-![Filelogr](https://raw.githubusercontent.com/Futuregus/filelogr/main/filelogr%20assets/filelogrlogo.png)
+![Filelogr]([https://raw.githubusercontent.com/Futuregus/filelogr/main/filelogr%20assets/filelogrlogo.png](https://github.com/Futuregus/filelogr/blob/00da0b03bf697895f25d39a2a3aea35207f6801c/filelogr%20assets/FLG-removebg-preview.png))
 
   ![license](https://img.shields.io/badge/license-MIT-green?style=flat) ![PyPI - Version](https://img.shields.io/pypi/v/filelogr)  ![PyPI - Downloads](https://img.shields.io/pypi/dm/filelogr) ![Static Badge](https://img.shields.io/badge/Python-4179a8?style=flat&label=Language&color=%234179a8&link=https%3A%2F%2Fwww.python.org%2F) ![Static Badge](https://img.shields.io/badge/documentation-189914?style=flat&link=https%3A%2F%2Ffuturegus.gitbook.io%2Ffilelogr-documentation)
 
@@ -33,7 +33,7 @@ It handles writing timestamped messages to a file, printing to console with colo
 - `@Logger.track` and `@Logger.catch` decorators for easy tracking
 
 ---
-## ![Installation](https://raw.githubusercontent.com/Futuregus/filelogr/main/filelogr%20assets/cmdlogo.png) Installation
+## ![Installation]([https://raw.githubusercontent.com/Futuregus/filelogr/main/filelogr%20assets/cmdlogo.png](https://raw.githubusercontent.com/Futuregus/filelogr/refs/heads/assets/filelogr%20assets/cmdlogo.png)) Installation
 
 ```bash
 
